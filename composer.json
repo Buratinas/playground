@@ -1,5 +1,6 @@
 {
     "require": {
-        "symfony/flex": "^1.6"
+        "symfony/flex": "^1.6",
+        "symfony/console": "^5.0"
     }
 }
